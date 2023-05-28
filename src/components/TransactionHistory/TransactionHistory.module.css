@@ -1,0 +1,14 @@
+
+.transactionHistory {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transactionHistory th {
+  background-color: #c3c574;
+  /* Колір шапки таблиці */
+  padding: 10px;
+  text-align: left;
+   border: 1px solid rgb(154, 146, 41);
+}
+

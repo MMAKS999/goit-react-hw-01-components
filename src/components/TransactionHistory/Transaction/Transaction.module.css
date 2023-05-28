@@ -1,0 +1,15 @@
+
+.evenRow {
+  background-color: #cdc2c2;
+  /* Колір парних рядків */
+}
+
+.oddRow {
+  background-color: #e3dbec;
+  /* Колір непарних рядків */
+}
+.evenRow td,
+.oddRow td {
+  padding-left: 15px;
+  border: 1px solid rgb(194, 191, 156);
+}
