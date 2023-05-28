@@ -1,4 +1,4 @@
-import PropTypes, { arrayOf } from 'prop-types';
+import PropTypes from 'prop-types';
 import { Transaction } from './Transaction/Transaction'
 import css from './TransactionHistory.module.css'
 

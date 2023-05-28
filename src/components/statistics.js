@@ -41,8 +41,6 @@ const Label = styled.span`
   font-weight: bold;
 `;
 
-const Percentage = styled.span``;
-
 
 export const Statistics = ({ title, stats }) => (
   <Section>

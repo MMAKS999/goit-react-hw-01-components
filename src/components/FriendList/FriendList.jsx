@@ -1,4 +1,4 @@
-import PropTypes, { arrayOf } from 'prop-types';
+import PropTypes from 'prop-types';
 import { FriendListItem } from './FriendListItemItem';
 
 export const FriendList = ({ friends }) => (
